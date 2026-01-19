@@ -1,138 +1,136 @@
-# Portfolio Projects
-## Following are my projects in SQL, Python, Tableau & Excel: <br />
-#### *You can take a look at my personal website : [www.priyankajha24.wixsite.com](www.priyankajha24.wixsite.com/aboutme)* <br />
-#### *You can also take a look at my Linkedin : [PriyankaJhaTheAnalyst](https://www.linkedin.com/in/priyankajhatheanalyst/)* <br />
 
 
+Municipality Social Media Data Analysis Dashboard
+📌 Project Overview
 
-- [x] **SQL & Tableau** - 
-  - Instagram Clone Data Analysis Project<br />
-*See on Tableau Public:* **[Dashboard](https://public.tableau.com/views/InstagramCloneDataAnalysisDashboard/InstagramCloneDataAnalysisDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)**<br />
-*Review the Data Insertion SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Instagram%20Clone%20SQL%20-%20Database%20%26%20Inserting%20Data.sql)**<br />
-*Review the Data Exploration SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Instagram%20Clone%20SQL%20-%20Exploratory%20Data%20Analysis.sql)**<br />
+This repository contains a Municipality-level Social Media Data Analysis Dashboard designed to analyze, monitor, and visualize public discourse across multiple digital platforms. The dashboard provides insights into post volume, content categories, time trends, and data sources to support data-driven decision-making for municipal communication and policy analysis.
 
-![Instagram Clone Dashboard](visuals/InstagramCloneDashboard.png)
+The project focuses on identifying category-wise engagement, temporal trends, and platform distribution of posts related to municipal topics.
 
+📊 Dashboard Highlights
+1. Overall Percentage & Number of Posts by Category
 
+Visualizes the distribution of posts across categories such as:
 
-- [x] **Hadoop (Hive)** - 
-  - NYC Yellow Taxi Records: Data Analysis <br />
-*Review the HiveQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/Hadoop(Hive)%20-%20NYC%20Yellow%20Taxi%20Case%20Study.txt)**<br />
+Culture & Media
 
+Health, Housing & Family
 
+Livelihood
 
-- [x] **SQL** - 
-  - Nashville Housing Dataset: Data Cleaning <br />
-*Review the SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Cleaning.sql)**<br />
+Transport & Traffic
 
-  - COVID-19 Dataset: Data Exploration  <br />
-*Review the SQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/SQL%20-%20Data%20Exploration.sql)**<br />
+Economy
 
+IT & Data
 
+Research & Humanities
 
-- [x] **PostgreSQL** - 
-  - Business Intelligence Challenge <br />
-*Review the PostgreSQL Script:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/DataAnalystPortfolioProjects/blob/main/PostgreSQL-BI-CHALLENGE)**<br />
-*Review the Google Slides Deck to see the Data Visualizations:* **[HERE](https://drive.google.com/file/d/1JIDnsaLXAx2qnWM86yfrRKLWF5B_ofHU/view?usp=sharing)**<br />
+Enables quick identification of high-impact discussion areas.
 
+2. Running Total of Posts Over Time
 
+Displays cumulative growth of posts by category.
 
-- [x] **Python** - 
-  - Movies Industry Dataset: Exploratory Data Analysis Project <br />
-*Read the complete Project Analysis in Markdown:* **[HERE](https://github.com/PriyankaJhaTheAnalyst/Python_MoviesIndustry_EDA/blob/main/README.md)**<br />
+Helps identify trends, spikes, and long-term engagement patterns.
 
+Includes an average benchmark line for contextual comparison.
 
+3. Number of Posts by Source & Category
 
-- [x] **Tableau** - 
+Breaks down content by platforms:
 
-*To view these Tableau Dashboards in Tableau Public, click on the hypertext link.*
+Articles
 
-- #MakeoverMonday 2020 Week 32 | Benefits of Working from Home: https://public.tableau.com/views/MakeoverMonday2020Week32BenefitsofWorkingfromHome/WORKFROMHOME?:language=en-GB&:display_count=n&:origin=viz_share_link
+Facebook
 
-![MakeoverMonday](visuals/WorkFromHome.png)  
+Instagram
 
-- Municipality Data Analysis Dashboard: https://public.tableau.com/views/MunicipalityDashboard/Municipality?:language=en-GB&:display_count=n&:origin=viz_share_link
+Twitter
 
-![Municipality Data Analysis](visuals/MunicipalityDataAnalysisDashboard.png)  
+Blogs
 
-- GROVER Junior Data Analyst Case Study Dashboard: https://public.tableau.com/views/GROVERJuniorDataAnalystCaseStudy/GroverDataAnalystDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link
+Forums
 
-![GROVER Junior Data Analyst](visuals/GroverDataAnalystDashboard.png)  
+YouTube
 
+Shows how different platforms contribute to various categories.
 
-- Retail Pricing Analytics Dashboard: https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/RetailPriceAnalyticsDashboard/RetailPricingAnalytics#2
+4. Key Metrics
 
-![Retail Price Analytics](visuals/RetailPricingAnalytics.png)
+Total Number of Posts: 15,312
 
+Filters for:
 
-- E-commerce Sales Dashboard: https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/eCommerceSales_16310934566250/ExploratoryVisualAnalysis
+Municipality
 
-![E-commerce Sales](visuals/E-commerceRetail.png)
+Category
 
+Source Type
 
-- Sales SuperStore Deep Data Analysis (5 Dashboards): https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/SuperStoreDataset5Dashboards/1KPIDashboard 
-      
-      1 KPI Dashboard
+Year (2020–2021)
 
-![KPI Dashboard](visuals/KPIDashboard.png)
+Sentiment
 
-      2 Top-Down Dashboard
-      
-![Top Down Dashboard](visuals/TopDownDashboard.png)
+COVID-19 Relation
 
-      3 Q&A Dashboard
-      
-![Q&A Dashboard](visuals/Q&ADashboard.png)
+🛠️ Tools & Technologies Used
 
-      4 Bottom-Up Dashboard
-      
-![Bottom Up Dashboard](visuals/BottomUpDashboard.png)
+Data Processing: SQL
 
-      5 Geo Chart
-      
-![Geo Chart](visuals/GeoChart.png)
+Visualization & BI: Power BI / Tableau (dashboard-based BI tool)
 
+Data Sources: Social media platforms, articles, forums
 
+Time Range: 2020–2021
 
-- World Bank CO2 Emissions Dashboard: https://public.tableau.com/views/WorldBankCo2Emissions_16149182681650/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link 
+📂 Repository Structure
+├── dashboard/
+│   └── MunicipalityDataAnalysisDashboard.png
+├── sql/
+│   ├── Data_Cleaning.sql
+│   └── Data_Exploration.sql
+├── notebooks/
+│   └── EDA_Notebook.ipynb
+├── README.md
 
-![World Bank CO2 Emission](visuals/WorldBankCO2Emission.png)
+🎯 Use Cases
 
+Municipal communication strategy analysis
 
-- London Bus Safety Dashboard: https://public.tableau.com/views/TableauCertificationCourse2/ChartsDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link 
+Public sentiment and engagement tracking
 
-![London Bus Safety](visuals/LondonBusSafety.png)
+Social media performance benchmarking
 
+Policy impact and topic prioritization
 
+Academic and portfolio demonstration
 
-- [x] **Excel** - 
+🚀 How to Use
 
-*Kindly download these Excel files from this repository and view them in Microsoft Excel.*
+Review the dashboard image for insights and trends.
 
+Use SQL scripts to reproduce data cleaning and exploration steps.
 
-- Sales Superstore Sample: Sales Performance Dashboard <br />
+Extend analysis by adding:
 
-![Dashboard](visuals/excel/Dashboards.png)
+Sentiment scoring
 
+Predictive trend analysis
 
-- NetTRON Network Infrastructure Data : LOOKUP, INDEX, MATCH, SUMIFS <br />
+Topic modeling
 
-![Dashboard](visuals/excel/INDEX.png)
+Export dashboard insights as PDF reports for stakeholders.
 
-![Dashboard](visuals/excel/LOOKUP.png)
+📈 Future Enhancements
 
+Automated data ingestion
 
-- Shipping Data: Pivot Tables, Pivot Chart, Slicers <br />
+Real-time dashboard updates
 
-![Dashboard](visuals/excel/PivotReports.png)
+Advanced NLP-based sentiment analysis
 
+Geo-level drill-down analytics
 
-- Project Costing Model Data: Scenario Manager, Solver (Data Modeling)
+Category-wise engagement scoring
 
-![Dashboard](visuals/excel/DataModeling.png)
-
-![Dashboard](visuals/excel/Solver.png)
-
-![Dashboard](visuals/excel/ScenarioManager.png)
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
